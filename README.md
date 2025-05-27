@@ -6,19 +6,19 @@ This is a full-stack application built with Spring Boot (Backend) and React (Fro
 
 ### Screenshots
 1. **Home Page**
-   ![Home Page](screenshots/home.png)
+   ![Home Page](screenshots/ss1.png)
    *Main dashboard showing the list of users*
 
 2. **Add User**
-   ![Add User](screenshots/add-user.png)
+   ![Add User](screenshots/ss2.png)
    *Form to add a new user*
 
 3. **Edit User**
-   ![Edit User](screenshots/edit-user.png)
+   ![Edit User](screenshots/ss3.png)
    *Form to edit existing user details*
 
 4. **View User**
-   ![View User](screenshots/view-user.png)
+   ![View User](screenshots/ss4.png)
    *Detailed view of a single user*
 
 ## Tech Stack
